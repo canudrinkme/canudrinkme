@@ -27,4 +27,4 @@
     <a href="https://www.instagram.com/canudrinkme/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   </div>
     
- ![Snake animation](https://github.com/canudrinkme/carolinamartini/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/canudrinkme/canudrinkme/blob/output/github-contribution-grid-snake.svg) 
