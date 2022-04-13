@@ -1,6 +1,6 @@
-### Olá! Eu sou a Carolina Martini.
+### Oie! Eu sou a Carolina Martini 👩‍💻
 
-- 👩‍💻 Hoje trabalho com suporte de TI
+- ☎️ Hoje trabalho com suporte de TI
 - 📜 Estudando front-end (HTML, CSS & JavaScript)
 - 😉 Pronomes: ela/dela
 
